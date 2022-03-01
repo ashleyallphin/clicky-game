@@ -2,7 +2,7 @@ import React from 'react';
 import "./Navbar.css";
 import Navbar from 'react-bootstrap/Navbar';
 import NavbarBrand from 'react-bootstrap/NavbarBrand';
-import logo from '../../assets/images/boosh-monkey-head.png'
+import logo from '../../assets/images/braves-A-onnavy.svg'
 
 const Nav = () => (
 <Navbar
@@ -11,10 +11,10 @@ const Nav = () => (
         variant="dark">
         <NavbarBrand href="#home">
             <img
-                alt="Boosh Monkey Head"
+                alt="Braves Logo"
                 src={logo}
             />{' '}
-            Mighty Boosh Clicky Game
+            Braves World Series Memory Game
         </NavbarBrand>
     </Navbar>
 );

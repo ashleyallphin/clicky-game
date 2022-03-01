@@ -1,8 +1,8 @@
 {
-  "name": "clickygame",
+  "name": "memorygame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ashleyallphin.github.io/clicky-game",
+  "homepage": "http://jr7x11.github.io/Braves",
   "dependencies": {
     "bootstrap": "^4.5.0",
     "kind-of": "^6.0.3",

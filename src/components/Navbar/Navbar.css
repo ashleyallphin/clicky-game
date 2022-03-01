@@ -1,12 +1,12 @@
 .Navbar {
-    background-color: #000 !important;
+    background-color: #00447c !important;
     height: 70px;
     font-size: .5rem !important;
     font-family: 'Manrope Extra Bold', sans-serif;
     font-weight: 800;
     color: #fff !important;
     padding: 0 0 0 15px !important;
-    border-bottom: 5px #d5d5d5 solid;
+    border-bottom: 5px #eeb111 solid;
     flex-shrink: 0;
 }
 

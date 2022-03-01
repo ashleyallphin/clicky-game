@@ -1,63 +1,64 @@
+
 [
     {
         "id": 1,
-        "name": "Bob Fossil",
-        "image": "https://i.imgur.com/7C8PJjt.jpg"
+        "name": "Marquis Grissom",
+        "image": "https://github.com/JR7x11/Braves/blob/main/src/assets/images/braves_grissom.jpg?raw=true"
     },
     {
         "id": 2,
-        "name": "Crack Fox",
-        "image": "https://i.imgur.com/hWcj3dq.jpg"
+        "name": "Mark Lemke",
+        "image": "https://github.com/JR7x11/Braves/blob/main/src/assets/images/braves_lemke.jpg?raw=true"
     },
 
     {
         "id": 3,
-        "name": "Vince & Howard",
-        "image": "https://i.imgur.com/EYagLSp.jpg"
+        "name": "Chipper Jones",
+        "image": "https://github.com/JR7x11/Braves/blob/main/src/assets/images/braves_jones.jpg?raw=true"
     },
     {
         "id": 4,
-        "name": "The Mighty Boosh",
-        "image": "https://i.imgur.com/OXEPZ57.jpg"
+        "name": "Fred McGriff",
+        "image": "https://github.com/JR7x11/Braves/blob/main/src/assets/images/braves_mcgriff.jpg?raw=true"
     },
     {
         "id": 5,
-        "name": "Milky Joe",
-        "image": "https://i.imgur.com/lMAMEWf.jpg"
+        "name": "David Justice",
+        "image": "https://github.com/JR7x11/Braves/blob/main/src/assets/images/braves_justice.jpg?raw=true"
     },
     {
         "id": 6,
-        "name": "Naboo & Bollo",
-        "image": "https://i.imgur.com/TptKQWT.jpg"
+        "name": "Ryan Klesko",
+        "image": "https://github.com/JR7x11/Braves/blob/main/src/assets/images/braves_kelsko.jpg?raw=true"
     },
     {
         "id": 7,
-        "name": "Old Gregg",
-        "image": "https://i.imgur.com/ew1gRwy.jpg"
+        "name": "Mike Devereaux",
+        "image": "https://github.com/JR7x11/Braves/blob/main/src/assets/images/braves_devereaux.jpg?raw=true"
     },
     {
         "id": 8,
-        "name": "Saboo",
-        "image": "https://i.imgur.com/eiBhEef.jpg"
+        "name": "Javy Lopez",
+        "image": "https://github.com/JR7x11/Braves/blob/main/src/assets/images/braves_lopez.jpg?raw=true"
     },
     {
         "id": 9,
-        "name": "Spirit of Jazz",
-        "image": "https://i.imgur.com/4VKYYTr.jpg"
+        "name": "Rafael Belliard",
+        "image": "https://github.com/JR7x11/Braves/blob/main/src/assets/images/braves_belliard.jpg?raw=true"
     },
     {
         "id": 10,
-        "name": "The Hitcher",
-        "image": "https://i.imgur.com/1Ug2JT7.jpg"
+        "name": "Tom Glavine",
+        "image": "https://github.com/JR7x11/Braves/blob/main/src/assets/images/braves_glavine.jpg?raw=true"
     },
     {
         "id": 11,
-        "name": "The Moon",
-        "image": "https://i.imgur.com/0JIiqpa.jpg"
+        "name": "Luis Polonia",
+        "image": "https://github.com/JR7x11/Braves/blob/main/src/assets/images/braves_polonia.jpg?raw=true"
     },
     {
         "id": 12,
-        "name": "Tony Harrison",
-        "image": "https://i.imgur.com/UVwusvg.jpg"
+        "name": "Mark Wholers",
+        "image": "https://github.com/JR7x11/Braves/blob/main/src/assets/images/braves_wholers.jpg?raw=true"
     }
 ]

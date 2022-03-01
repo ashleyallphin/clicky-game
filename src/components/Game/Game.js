@@ -14,8 +14,8 @@ class Game extends Component {
 		winTotal: this.props.length,
 		characters: characters,
 		name: characters.name,
-		message: "Click a character to begin!",
-		submessage: "Pick all twelve characters without repeating to win the game.",
+		message: "CLICK A PLAYER TO BEGIN!",
+		submessage: "Pick all twelve Braves players without repeating to win the game.",
 		score: 0,
 		highestScore: 0,
 	};
@@ -111,7 +111,7 @@ class Game extends Component {
 		return this.setState({
 			// alert with these messages:
 			message: `You already picked ${name}`,
-			submessage: "Click another character to begin again.",
+			submessage: "Click another player to try again.",
 			// shuffle the cards
 			image: cardLocation.sort(() => Math.random() - 0.5),
 			// reset score to 0
